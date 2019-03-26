@@ -5,4 +5,4 @@ go:
 - 1.12.x
 
 script:
- - echo "Hello World"
+ - go build ./...
