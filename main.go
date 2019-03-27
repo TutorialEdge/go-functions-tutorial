@@ -37,7 +37,9 @@ func addOne() func() int {
 //
 // implement the Add function here:
 //
-//
+func Add(a, b int) int {
+	return a + b
+}
 
 func main() {
 	fmt.Println("Go Functions Tutorial")
