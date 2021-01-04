@@ -55,7 +55,7 @@ func main() {
 	}
 	fmt.Println(fullName2)
 
-	// Let's test our our function that returns a
+	// Let's test out our function that returns a
 	// function which returns an int.
 	myFunc := addOne()
 	fmt.Println(myFunc()) // prints out 2
